@@ -29,12 +29,11 @@ A기업은 온라인쇼핑몰을 운영하기 위해 웹서비스를 제공하�
 • 발표 자료 제작 및 결과 발표, 보고서 총괄
 
 📍 ********개발 도구********
-
-• AWS
-
-• PuTTY
-
-• MySQL
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Putty-000000?style=for-the-badge"> 
+</div>
 
 ## ☁️ 아키텍처 구조
 ![Untitled](https://user-images.githubusercontent.com/89725142/214896098-2bf7e65c-f308-455b-af64-691e8040732a.png)
