@@ -1,4 +1,4 @@
-# Cloud4C
+# Public Cloud Team Project
 
 ## 📌 개요
 
